@@ -1,0 +1,10 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="34" fill="#25170F"/>
+  <rect x="82" y="250" width="462" height="74" rx="18" fill="#B7794A"/>
+  <path d="M112 286H518" stroke="#FAD7B3" stroke-width="9" stroke-linecap="round" opacity="0.7"/>
+  <path d="M250 114L308 76L434 268L376 306L250 114Z" fill="#F59E0B"/>
+  <path d="M218 98L270 62L314 128L262 164L218 98Z" fill="#FDE68A"/>
+  <path d="M384 120L484 220" stroke="#F8FAFC" stroke-width="26" stroke-linecap="round"/>
+  <path d="M482 218L536 272" stroke="#94A3B8" stroke-width="34" stroke-linecap="round"/>
+  <text x="58" y="382" fill="#FFF7ED" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Carpentry</text>
+</svg>

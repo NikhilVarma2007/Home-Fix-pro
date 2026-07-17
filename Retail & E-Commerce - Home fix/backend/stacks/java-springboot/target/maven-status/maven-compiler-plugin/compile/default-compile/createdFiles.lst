@@ -1,0 +1,3 @@
+com\homefix\backend\AppController.class
+com\homefix\backend\HomefixBackendApplication.class
+com\homefix\backend\BookingPayload.class

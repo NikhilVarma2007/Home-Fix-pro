@@ -1,0 +1,13 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="34" fill="#20131A"/>
+  <circle cx="520" cy="86" r="122" fill="#FF6B5B" opacity="0.24"/>
+  <rect x="58" y="236" width="526" height="92" rx="28" fill="#3B1F28"/>
+  <circle cx="206" cy="164" r="74" fill="#F7B2A9"/>
+  <path d="M122 316C140 253 174 224 213 224C254 224 288 254 304 316H122Z" fill="#FF6B5B"/>
+  <path d="M366 116L456 302" stroke="#FCE7DE" stroke-width="16" stroke-linecap="round"/>
+  <path d="M472 116L382 302" stroke="#FCE7DE" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="360" cy="104" r="28" stroke="#FCE7DE" stroke-width="15"/>
+  <circle cx="478" cy="104" r="28" stroke="#FCE7DE" stroke-width="15"/>
+  <path d="M414 208C456 194 506 200 552 228" stroke="#FFC5B8" stroke-width="10" stroke-linecap="round"/>
+  <text x="58" y="382" fill="#FFF7F0" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Tailoring</text>
+</svg>

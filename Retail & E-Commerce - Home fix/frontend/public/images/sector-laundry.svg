@@ -1,0 +1,11 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="34" fill="#0C213B"/>
+  <circle cx="112" cy="88" r="92" fill="#60A5FA" opacity="0.3"/>
+  <rect x="244" y="76" width="188" height="260" rx="28" fill="#EAF6FF"/>
+  <rect x="274" y="112" width="128" height="32" rx="16" fill="#3B82F6"/>
+  <circle cx="338" cy="226" r="70" fill="#1D4ED8"/>
+  <path d="M288 225C316 190 363 265 394 218" stroke="#BFDBFE" stroke-width="18" stroke-linecap="round"/>
+  <path d="M116 292C160 238 220 238 264 292H116Z" fill="#93C5FD"/>
+  <path d="M452 292C496 238 556 238 600 292H452Z" fill="#38BDF8"/>
+  <text x="58" y="382" fill="#EFF6FF" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Laundry</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="34" fill="#2B1609"/>
+  <circle cx="510" cy="90" r="110" fill="#FB923C" opacity="0.22"/>
+  <path d="M200 142C208 91 250 66 310 66C370 66 412 91 420 142H200Z" fill="#F97316"/>
+  <rect x="188" y="130" width="244" height="38" rx="19" fill="#FDBA74"/>
+  <circle cx="310" cy="208" r="62" fill="#FFD0A1"/>
+  <path d="M170 326C194 264 238 236 310 236C382 236 426 264 450 326H170Z" fill="#EA580C"/>
+  <rect x="452" y="220" width="98" height="42" rx="8" fill="#FED7AA"/>
+  <rect x="452" y="272" width="98" height="42" rx="8" fill="#FDBA74"/>
+  <text x="58" y="382" fill="#FFF7ED" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Construction Labour</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="34" fill="#151838"/>
+  <circle cx="500" cy="92" r="112" fill="#818CF8" opacity="0.22"/>
+  <rect x="122" y="82" width="164" height="246" rx="30" fill="#EEF2FF"/>
+  <circle cx="204" cy="220" r="56" fill="#6366F1"/>
+  <path d="M168 220C190 192 220 248 242 214" stroke="#C7D2FE" stroke-width="16" stroke-linecap="round"/>
+  <rect x="348" y="104" width="154" height="206" rx="24" fill="#A5B4FC"/>
+  <rect x="372" y="132" width="106" height="50" rx="16" fill="#EEF2FF"/>
+  <path d="M398 244H452" stroke="#EEF2FF" stroke-width="16" stroke-linecap="round"/>
+  <text x="58" y="382" fill="#EEF2FF" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Appliance Repair</text>
+</svg>

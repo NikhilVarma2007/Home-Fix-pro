@@ -1,0 +1,10 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="34" fill="#271B08"/>
+  <circle cx="474" cy="104" r="128" fill="#F59E0B" opacity="0.24"/>
+  <path d="M348 48L184 246H314L270 372L462 156H330L348 48Z" fill="#FBBF24"/>
+  <rect x="436" y="214" width="104" height="112" rx="20" fill="#FFF7ED"/>
+  <circle cx="470" cy="252" r="9" fill="#92400E"/>
+  <circle cx="506" cy="252" r="9" fill="#92400E"/>
+  <path d="M488 286V318" stroke="#92400E" stroke-width="14" stroke-linecap="round"/>
+  <text x="58" y="382" fill="#FFF7ED" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Electrical</text>
+</svg>

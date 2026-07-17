@@ -1,0 +1,36 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(258 214) rotate(90) scale(310 274)">
+      <stop stop-color="#253037"/>
+      <stop offset="0.7" stop-color="#151C20"/>
+      <stop offset="1" stop-color="#0C1114"/>
+    </radialGradient>
+    <linearGradient id="copper" x1="112" y1="42" x2="394" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD7B2"/>
+      <stop offset="0.18" stop-color="#C57945"/>
+      <stop offset="0.42" stop-color="#EFB27F"/>
+      <stop offset="0.68" stop-color="#9C5531"/>
+      <stop offset="1" stop-color="#E0A06D"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="176" y1="136" x2="330" y2="278" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.48" stop-color="#D8D8D8"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <filter id="drop" x="52" y="14" width="408" height="438" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="16" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <g filter="url(#drop)">
+    <path d="M78 159L256 31L434 159H378L256 73L134 159H78Z" fill="url(#copper)"/>
+    <path d="M329 63H373V159H329V63Z" fill="url(#copper)"/>
+    <path d="M158 157L256 76L354 157C372 200 365 259 334 306L256 405L178 306C147 259 140 200 158 157Z" fill="url(#copper)"/>
+    <circle cx="256" cy="210" r="82" fill="#0B1114"/>
+    <path d="M208 184L174 151C168 145 158 152 162 161L188 211L164 256C160 265 171 272 179 264L232 219L208 184Z" fill="url(#silver)"/>
+    <path d="M304 184L338 151C344 145 354 152 350 161L324 211L348 256C352 265 341 272 333 264L280 219L304 184Z" fill="url(#silver)"/>
+    <path d="M250 286V126C250 116 262 116 262 126V286" stroke="url(#silver)" stroke-width="12" stroke-linecap="round"/>
+    <path d="M224 283L288 139" stroke="url(#silver)" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="288" cy="139" r="14" fill="url(#silver)"/>
+  </g>
+</svg>

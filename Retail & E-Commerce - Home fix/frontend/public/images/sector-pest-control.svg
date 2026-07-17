@@ -1,0 +1,10 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="34" fill="#16230B"/>
+  <circle cx="500" cy="100" r="120" fill="#84CC16" opacity="0.22"/>
+  <path d="M320 70L478 134V224C478 286 420 326 320 354C220 326 162 286 162 224V134L320 70Z" fill="#D9F99D"/>
+  <ellipse cx="320" cy="226" rx="64" ry="78" fill="#365314"/>
+  <circle cx="320" cy="150" r="34" fill="#4D7C0F"/>
+  <path d="M250 208H390M260 254H380M276 296H364" stroke="#ECFCCB" stroke-width="12" stroke-linecap="round"/>
+  <path d="M236 188L194 156M404 188L446 156M232 250L184 260M408 250L456 260" stroke="#84CC16" stroke-width="13" stroke-linecap="round"/>
+  <text x="58" y="382" fill="#F7FEE7" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Pest Control</text>
+</svg>

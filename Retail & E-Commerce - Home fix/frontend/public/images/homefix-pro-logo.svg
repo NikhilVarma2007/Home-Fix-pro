@@ -1,0 +1,74 @@
+<svg width="466" height="510" viewBox="0 0 466 510" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(236 204) rotate(90) scale(324 274)">
+      <stop stop-color="#253037"/>
+      <stop offset="0.62" stop-color="#151C20"/>
+      <stop offset="1" stop-color="#0C1114"/>
+    </radialGradient>
+    <linearGradient id="copper" x1="104" y1="34" x2="354" y2="369" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD7B2"/>
+      <stop offset="0.16" stop-color="#C57945"/>
+      <stop offset="0.36" stop-color="#EFB27F"/>
+      <stop offset="0.58" stop-color="#9C5531"/>
+      <stop offset="0.82" stop-color="#E0A06D"/>
+      <stop offset="1" stop-color="#7E3F25"/>
+    </linearGradient>
+    <linearGradient id="copperText" x1="40" y1="348" x2="420" y2="442" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A45C38"/>
+      <stop offset="0.44" stop-color="#F1B17C"/>
+      <stop offset="0.72" stop-color="#C47747"/>
+      <stop offset="1" stop-color="#FFD0A4"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="154" y1="119" x2="310" y2="248" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.45" stop-color="#D8D8D8"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <filter id="drop" x="35" y="0" width="400" height="378" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="12" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+    <filter id="textShadow" x="38" y="346" width="390" height="108" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="5" stdDeviation="3" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+    <filter id="texture" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.06"/>
+      </feComponentTransfer>
+    </filter>
+    <pattern id="brush" width="6" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 1H6M0 4H6" stroke="#FFE1BF" stroke-opacity="0.12" stroke-width="0.7"/>
+    </pattern>
+  </defs>
+
+  <rect width="466" height="510" fill="url(#bgGlow)"/>
+  <rect width="466" height="510" filter="url(#texture)" opacity="0.9"/>
+
+  <g filter="url(#drop)">
+    <path d="M78 143L226 20L374 143H328L226 58L124 143H78Z" fill="#0A0F11" opacity="0.65" transform="translate(0 8)"/>
+    <path d="M78 143L226 20L374 143H328L226 58L124 143H78Z" fill="url(#copper)"/>
+    <path d="M286 45H317V143H286V45Z" fill="url(#copper)"/>
+    <path d="M142 144L226 72L310 144C324 178 321 226 296 267L226 335L156 267C131 226 128 178 142 144Z" fill="#0B0F12" opacity="0.48" transform="translate(0 8)"/>
+    <path d="M142 137L226 66L310 137C326 174 322 225 296 267L226 335L156 267C130 225 126 174 142 137Z" fill="url(#copper)"/>
+    <path d="M158 151C177 118 203 96 226 78C249 96 275 118 294 151C307 185 300 223 276 253L226 302L176 253C152 223 145 185 158 151Z" fill="#8A472A" opacity="0.18"/>
+    <path d="M142 137L226 66L310 137C326 174 322 225 296 267L226 335L156 267C130 225 126 174 142 137Z" fill="url(#brush)" opacity="0.58"/>
+
+    <circle cx="226" cy="178" r="70" fill="#0B1114"/>
+    <circle cx="226" cy="178" r="67" stroke="#F0B37E" stroke-opacity="0.25" stroke-width="3"/>
+
+    <path d="M185 156L156 128C150 122 141 128 144 137L166 181L145 219C141 228 151 235 158 228L205 188L185 156Z" fill="url(#silver)"/>
+    <path d="M173 146L190 163L178 176L160 159" stroke="#0B1114" stroke-width="13" stroke-linecap="round"/>
+    <path d="M267 156L296 128C302 122 311 128 308 137L286 181L307 219C311 228 301 235 294 228L247 188L267 156Z" fill="url(#silver)"/>
+    <path d="M280 143L262 164L276 176L296 154" stroke="#0B1114" stroke-width="12" stroke-linecap="round"/>
+    <path d="M221 242V104C221 96 231 96 231 104V242" stroke="url(#silver)" stroke-width="10" stroke-linecap="round"/>
+    <path d="M226 118C235 125 237 135 228 145" stroke="#0B1114" stroke-width="4" stroke-linecap="round"/>
+    <path d="M198 239L254 116" stroke="url(#silver)" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="254" cy="116" r="12" fill="url(#silver)"/>
+  </g>
+
+  <g filter="url(#textShadow)">
+    <text x="50" y="404" fill="url(#copperText)" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="55" font-weight="900" letter-spacing="2">LOCAL PRO</text>
+    <text x="113" y="444" fill="url(#copperText)" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="28" font-weight="900" letter-spacing="3">HOMEFIX PRO</text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+{
+  "name": "HomeFix Pro",
+  "short_name": "HomeFix",
+  "description": "Book trusted local services and manage professional service work.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#10B981",
+  "icons": [
+    {
+      "src": "/images/homefix-pro-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/homefix-pro-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

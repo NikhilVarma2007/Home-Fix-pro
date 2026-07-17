@@ -1,0 +1,10 @@
+<svg width="640" height="420" viewBox="0 0 640 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="420" rx="34" fill="#092D35"/>
+  <circle cx="510" cy="108" r="112" fill="#06B6D4" opacity="0.22"/>
+  <path d="M90 248H278V190H372V132H550" stroke="#A5F3FC" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M208 142C248 104 304 103 340 142L296 186L252 142L208 186L164 142Z" fill="#22D3EE"/>
+  <circle cx="474" cy="250" r="54" fill="#0E7490"/>
+  <path d="M438 250H510" stroke="#ECFEFF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M474 214V286" stroke="#ECFEFF" stroke-width="18" stroke-linecap="round"/>
+  <text x="58" y="382" fill="#ECFEFF" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">Plumbing</text>
+</svg>
